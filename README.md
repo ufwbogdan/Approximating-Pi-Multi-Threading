@@ -1,6 +1,6 @@
 Approximating Pi by means of numerical integration using Multi Threading (OpenMP) in C++.
 
-- Given that pi is the area of a circle with unit radius, we approximate pi by computing the area of a quarter circle using Riemann sumsas described in the following method.
+- Given that pi is the area of a circle with unit radius, we approximate pi by computing the area of a quarter circle using Riemann sums as described in the following method.
 
 - Let
 ```math
