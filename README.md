@@ -1,6 +1,10 @@
 Approximating Pi by means of numerical integration using Multi Threading (OpenMP) in C++.
 
-- Given that ```math \pi ``` is the area of a circle with unit radius, we approximate ```math \pi ``` by computing the area of a quarter circle using Riemann sums.
+- Given that
+  ```math
+  \pi
+  ```
+  is the area of a circle with unit radius, we approximate ```math \pi ``` by computing the area of a quarter circle using Riemann sums.
 
 - Let ```math f(x) = \sqrt{1 - x^2} ``` for ```math x \in [0,1] \subseteq \mathbb{R} ```. We approximate the quarter circle area using:
 
