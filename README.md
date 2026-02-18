@@ -12,7 +12,10 @@ We approximate the quarter circle area using:
 \frac{\pi}{4} \approx \sum_{i=0}^{N-1} \Delta x \, f(x_i)
 ```
 
-where ```math x_i = i \Delta x \text{ and } \Delta x = \frac{1}{N} ```.  
+where 
+```math 
+x_i = i \Delta x \text{ and } \Delta x = \frac{1}{N} .
+```  
 The approximation becomes more accurate as \( N \to \infty \).
 
 - Besides the parallel OpenMP implementation, there is also a version combining multi-threading and SIMD vectorization using OpenMP and Intel intrinsic functions.
