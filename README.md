@@ -3,9 +3,9 @@ Approximating Pi by means of numerical integration using Multi Threading (OpenMP
 - Given that pi is the area of a circle with unit radius, we approximate pi by computing the area of a quarter circle using Riemann sums.
 
 - Let
-  ```math
-  f(x) = \sqrt{1 - x^2} \text{for} x \in [0,1] \subseteq \mathbb{R}
-  ```.
+```math
+f(x) = \sqrt{1 - x^2} \text{ for } x \in [0,1] \subseteq \mathbb{R}.
+```
 We approximate the quarter circle area using:
 
 ```math
