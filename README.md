@@ -2,7 +2,7 @@ Approximating Pi by means of numerical integration using Multi Threading (OpenMP
 
 - Given that
   ```math
-  \pi
+  \pi dsadas dsadasd dsadasd dsadas
   ```
   is the area of a circle with unit radius, we approximate ```math \pi ``` by computing the area of a quarter circle using Riemann sums.
 
